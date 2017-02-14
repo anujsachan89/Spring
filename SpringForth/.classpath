@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-openjdk-amd64"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/aop.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/core.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/ibatis.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/j2ee.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/javaconfig.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/misc.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/persistCore.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/persistJDO.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/remoting.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/test.zip"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/springjars/web.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
